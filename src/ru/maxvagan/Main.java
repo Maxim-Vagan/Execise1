@@ -3,6 +3,8 @@ package ru.maxvagan;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Lift me up!");
+	System.out.println("Максим Сергеевич: Первый проект готов. За долгие годы работы в ИТ сфере " +
+            "и не малый опыт программиста как-то стыдно только сейчас обзаводиться учёткой на Гитхабе " +
+            "и вливаться в общее сообщество");
     }
 }
